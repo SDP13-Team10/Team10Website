@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-Team 10 had the preliminary design review (PDR) on Friday October 12 at 3:00 PM in Knowles Engineering Building, Room #109.
+Team 10 had the preliminary design review (PDR) on Friday October 12 at 3:00 PM in Knowles Engineering Building, Conference Room #109.
 
 PDR Presentation:
 
