@@ -7,3 +7,5 @@ ClockAide is an interactive educational system devised to help a specific group 
 
 Team Advisors: [Professor T. Baird Soules](http://ece.umass.edu/faculty/baird-soules) and [Professor William Leonard](http://ece.umass.edu/faculty/william-leonard)
 
+Evaluators: [Professor Maciej Ciesielski](http://ece.umass.edu/faculty/maciej-ciesielski) and [Professor Ramakrishna Janaswamy](http://ece.umass.edu/faculty/ramakrishna-janaswamy)
+
