@@ -8,9 +8,10 @@ layout: page
 
 **[Email All Members](mailto:jjeancla@student.umass.edu,shonnudi@student.umass.edu,aganesan@student.umass.edu,eomoore@student.umass.edu?subject=[SDP])**
 
-**Team Picture**
+**Team Picture:**
 
 ![Team Picture]({{ root_url }}/assets/TeamPicture.jpeg "Team Picture")
 
 *From Left to Right: Anita Ganesan, Eric Moore, Sachin Honnudike, and Joel Jean-Claude*
+
 **[Download Team Picture (JPEG)]({{ root_url }}/assets/TeamPicture.jpeg)**
